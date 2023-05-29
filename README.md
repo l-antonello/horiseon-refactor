@@ -8,3 +8,10 @@ Optimizing the HTML code is as straightforward as adding the proper semantic ele
 [example](https://www.w3schools.com/html/img_sem_elements.gif)
 Adding alt= tag for images is important for adding additional search power to the site as well as increasing the accesibility for screen readers and/or if the webpage is broken.
 [example](https://dubbot.com/images/blog-content/2021/alt-text/broken-image.png)
+    
+ ## Contributing
+  N/A 
+ 
+ ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
